@@ -176,6 +176,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-syncdial=y
           CONFIG_PACKAGE_luci-app-wol=y
           CONFIG_PACKAGE_UnblockNeteaseMusic=y
+          CONFIG_PACKAGE_luci-app-music-remote-center=y
           EOF
 
           # LuCI主题:
